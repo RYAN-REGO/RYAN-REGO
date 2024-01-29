@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Rego</h1>
 <h3 align="center">A passionate MERN stack developer and C++ programmer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-- 🌱 Check Out my new Next .js Project [Medium Clone](https://medium-clone-eight-lilac.vercel.app/)
+- 🌱 My first Next .js Project [https://medium-clone-eight-lilac.vercel.app/](https://medium-clone-eight-lilac.vercel.app/)
 
 - 👨‍💻 My first MERN Project [https://campus-connect-14.netlify.app/](https://campus-connect-14.netlify.app/)
 
