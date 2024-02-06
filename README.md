@@ -3,9 +3,9 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 - 🌱 Checkout my Next JS Project (https://medium-clone-eight-lilac.vercel.app/)
 
-- 👨‍💻 My first MERN Project (https://campus-connect-14.netlify.app/)
+- 👨‍💻 MERN stack Project 1 [Prep-Net](https://prep-net.cyclic.app/)
 
-- 👨‍💻 My second MERN Project [https://prep-net.cyclic.app/](https://prep-net.cyclic.app/)
+- 👨‍💻 MERN stack Project 2 [Campus-Connect](https://prep-net.cyclic.app/)
 
 - 💬 Ask me about **React.js Node.js Express.js**
 
