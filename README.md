@@ -7,7 +7,7 @@
 
 - 👨‍💻 MERN stack Project 2 [Campus-Connect](https://campus-connect-14.netlify.app/)
 
-- 💬 Ask me about **React.js Node.js Express.js**
+- 💬 Ask me about **React.js Node.js Express.js Next.js MongoDB**
 
 - 📫 How to reach me **ryanrego14@gmail.com**
 
