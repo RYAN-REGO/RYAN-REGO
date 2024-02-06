@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Rego</h1>
 <h2 align="center">MERN stack developer | Next JS | C++ programmer</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-- 🌱 Checkout my <h4>Next JS</h4> Project (https://medium-clone-eight-lilac.vercel.app/)
+- 🌱 Checkout my Next JS Project (https://medium-clone-eight-lilac.vercel.app/)
 
 - 👨‍💻 My first MERN Project (https://campus-connect-14.netlify.app/)
 
