@@ -6,9 +6,12 @@
 - 👨‍💻 MERN stack Project 1 [Prep-Net](https://prep-net.cyclic.app/)
 
 - 👨‍💻 MERN stack Project 2 [Campus-Connect](https://campus-connect-14.netlify.app/)
+- My Resume : <a href="https://drive.google.com/drive/folders/17qxM19z819mcIZRZvY6m_00zqEz4Navr?usp=sharing">Click Here</a>
 
 - 💬 Ask me about **React.js Node.js Express.js Next.js MongoDB**
-
+  
+-  📫 Currently learning **Docker MySQL**
+  
 - 📫 How to reach me **ryanrego14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
