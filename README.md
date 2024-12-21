@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ryan Rego</h1>
 <h2 align="center">MERN stack developer | Next JS | C++ programmer</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-- 🌱 Checkout my latest Next JS Project <a href="https://medium-clone-eight-lilac.vercel.app/">Medium-Clone</a> (ongoing)
+- 🌱 Currently building a Chrome Extension "LeetVision"..
 
 - 👨‍💻 MERN stack Project 1 [Prep-Net](https://prep-net.cyclic.app/)
 
 - 👨‍💻 MERN stack Project 2 [Campus-Connect](https://campus-connect-14.netlify.app/)
+
+- 👨‍💻 Next JS + TypeScript Project  [PenSphere](https://medium-clone-eight-lilac.vercel.app/)
 - :bookmark: My Resume : <a href="https://drive.google.com/drive/folders/17qxM19z819mcIZRZvY6m_00zqEz4Navr?usp=sharing">Click Here</a>
 
 - 💬 Ask me about **React.js Node.js Express.js Next.js MongoDB**
