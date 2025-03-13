@@ -1,26 +1,54 @@
 <h1 align="center">Hi 👋, I'm Ryan Rego</h1>
-<h2 align="center">Chrome Extension | NextJS / TS | MERN | Hackathon x3 | Docker Enthusiast | Built impactful projects using modern web technologies</h2>
+<h2 align="center">Chrome Extension | NextJS / TypeScript | MERN | Hackathon x3 | Docker | React Native | Passionate about building impactful solutions</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-- 🌱 Currently building a Chrome Extension "LeetVision"..
+🔹 Currently **exploring Android Development** using React Native and Expo. 
 
-- 👨‍💻 MERN stack Project 1 [Prep-Net](https://prep-net.cyclic.app/)
+---
 
-- 👨‍💻 MERN stack Project 2 [Campus-Connect](https://campus-connect-14.netlify.app/)
+## 🚀 Featured Projects  
 
-- 👨‍💻 Next JS + TypeScript Project  [PenSphere](https://medium-clone-eight-lilac.vercel.app/)
-- :bookmark: My Resume : <a href="https://drive.google.com/drive/folders/17qxM19z819mcIZRZvY6m_00zqEz4Navr?usp=sharing">Click Here</a>
+### 🏆 **LeetVision** (Chrome Extension)  
+📌 **Description:** Provides **corner test cases** for LeetCode problems & highlights key points in problem statements.  
+🔗 **[Check it out](https://github.com/RYAN-REGO/LeetVision_Extension)**  
 
-- 💬 Ask me about **React.js Node.js Express.js Next.js MongoDB**
-  
--  📫 Currently learning **Docker MySQL**
-  
-- 📫 How to reach me **ryanrego14@gmail.com**
+### 🏆 **Hiretainity** (Hackathon Winner 🥇)  
+📌 **Description:** A **PaaS solution** that streamlines & automates the hiring process.  
+🔗 **[Check it out](https://github.com/RYAN-REGO/Alphabyte-Hiretainity)**  
+
+### 🎯 **Mentor-Connect** (Hackathon Project)  
+📌 **Description:** An intelligent **mentor-matching** system ensuring **personalized mentorship**.  
+🔗 **[Check it out](https://github.com/RYAN-REGO/HM0052_MernMaestros)**  
+
+### ✍️ **PenSphere**  
+📌 **Description:** A **Medium.com-like blogging platform** built with **Next.js & TypeScript**.  
+🔗 **[Check it out](https://github.com/RYAN-REGO/PenSphere)**  
+
+### 🎓 **Prep-Net** (College Exclusive Platform)  
+📌 **Description:** A **community-driven interview prep platform** where seniors & alumni share experiences.  
+🔗 **[Check it out](https://github.com/RYAN-REGO/Prep-Net)**  
+
+### 🌐 **Campus-Connect**  
+📌 **Description:** My **first full-stack MERN** web application.  
+🔗 **[Check it out](https://github.com/RYAN-REGO/Campus-Connect_N)**  
+
+---
+
+## 📄 Resume  
+📌 **[View My Resume](https://drive.google.com/drive/folders/17qxM19z819mcIZRZvY6m_00zqEz4Navr?usp=sharing)**  
+
+## 💡 Let's Connect!  
+
+💬 **Ask me about:** Web Technologies, Project Ideas  
+📚 **Currently Learning:** Android Development, DSA 😪  
+📩 **Reach Me At:** [ryanrego14@gmail.com](mailto:ryanrego14@gmail.com)  
+
+---
+
+### 🔥 Thanks for visiting! Happy coding! 🚀  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ryan rego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan rego" height="30" width="40" /></a>
-<a href="https://fb.com/ryan rego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ryan rego" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ryan rego" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryan rego" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ryan-rego-pccoe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan rego" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Skills and Tools:</h3>
