@@ -30,11 +30,9 @@
 
 
 
-## 📄 **Resume**
-📌 **[View My Resume](https://drive.google.com/drive/folders/17qxM19z819mcIZRZvY6m_00zqEz4Navr?usp=sharing)**  
+## 📄 **Resume** 📌 **[View My Resume](https://drive.google.com/drive/folders/17qxM19z819mcIZRZvY6m_00zqEz4Navr?usp=sharing)**  
 
 ## 💡 Let's Connect!  
-
 💬 **Ask me about:** Web Technologies, Project Ideas  
 📚 **Currently Learning:** Android Development, DSA 😪  
 📩 **Reach Me At:** [ryanrego14@gmail.com](mailto:ryanrego14@gmail.com)  
