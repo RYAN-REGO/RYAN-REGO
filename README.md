@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ryan Rego</h1>
 <h2 align="center">Chrome Extension | NextJS / TypeScript | MERN | Hackathon x3 | Docker | React Native | Passionate about building impactful solutions</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
-🔹 Currently **exploring Android Development** using React Native and Expo. 
 
-## 🚀 Featured Projects  
+## 🚀 **Featured Projects** 
 
 ### 🏆 **LeetVision** (Chrome Extension)  
 📌 **Description:** Provides **corner test cases** for LeetCode problems & highlights key points in problem statements.  
@@ -31,7 +30,7 @@
 
 
 
-## 📄 Resume  
+## 📄 **Resume**
 📌 **[View My Resume](https://drive.google.com/drive/folders/17qxM19z819mcIZRZvY6m_00zqEz4Navr?usp=sharing)**  
 
 ## 💡 Let's Connect!  
