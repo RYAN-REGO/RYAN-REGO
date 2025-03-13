@@ -2,7 +2,7 @@
 <h2 align="center">Chrome Extension | NextJS / TypeScript | MERN | Hackathon x3 | Docker | React Native | Passionate about building impactful solutions</h2>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-## 🚀 **Featured Projects** 
+<h2>🚀 Featured Projects</h2>
 
 ### 🏆 **LeetVision** (Chrome Extension)  
 📌 **Description:** Provides **corner test cases** for LeetCode problems & highlights key points in problem statements.  
